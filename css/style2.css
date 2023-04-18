@@ -2,7 +2,22 @@ body {
     color: 333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande" sans-serif;
 }
+.busca h2,
+.busca form
+.menu-departamentos h2{
+    margin: 10px;
+}
 
+.menu-departamentos li{
+    background-color: white;
+    margin-bottom: 1px;
+    padding: 5px 10px;
+}
+
+.menu-departamentos a {
+    color: #333333
+    text-decoration: none;
+}
 .sacola {
     background: url(../img/sacola.png) no-repeat top right;
 
