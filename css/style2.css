@@ -7,7 +7,6 @@ body {
 .menu-departamentos h2{
     margin: 10px;
 }
-
 .menu-departamentos li{
     background-color: white;
     margin-bottom: 1px;
@@ -16,7 +15,7 @@ body {
 
 .menu-departamentos a {
     color: #333333
-    text-decoration: none;
+    text-decoration none;
 }
 .sacola {
     background: url(../img/sacola.png) no-repeat top right;
